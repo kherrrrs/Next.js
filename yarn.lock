@@ -96,7 +96,7 @@
 "@next/swc-linux-x64-musl@12.0.9":
   version "12.0.9"
   resolved "https://registry.yarnpkg.com/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-12.0.9.tgz#678460266f544b52f1190ef0c3494e436608591e"
-  integrity sha512-SR9p0R+v1T32DTXPVAXZw31pmJAkSDotC6Afy+mfC0xrEL3pp95R8sGXYAAUCEPkQp0MEeUOVy2LrToe92X7hQ==
+integrity sha512-SR9p0R+v1T32DTXPVAXZw31pmJAkSDotC6Afy+mfC0xrEL3pp95R8sGXYAAUCEPkQp0MEeUOVy2LrToe92X7hQ==
 
 "@next/swc-win32-arm64-msvc@12.0.9":
   version "12.0.9"
